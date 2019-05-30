@@ -1,0 +1,5 @@
+<html>
+ <h1 style=color:Gold><center>CIG's tick tack toe</center><h1>
+  <button onclick="window.location.href = '';"><h1>single player<h1></button>
+   <button onclick="window.location.href = '';"><h1>multiplayer<h1></button>
+</html>
